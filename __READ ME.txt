@@ -1,9 +1,11 @@
 ﻿====================================================================================================
 
-John Smith Legacy - Resource Pack
+John Smith Technicians Remix - Resource Pack
 
-for Vanilla Minecraft
+for Modded Minecraft
 
+http://js-legacy.net/
+https://github.com/John-Smith-Modded
 http://www.johnsmithlegacy.co.uk/
 
 ====================================================================================================
@@ -15,8 +17,10 @@ Please follow these instructions carefully.
 NOTE:- This Resource Pack will not work with versions of Minecraft older than 1.8.
 
 For Resource Pack and older Texture pack releases (1.7.10, 1.62, 1.52 and 1.47), see the
-Resource Pack History on the John Smith Legacy website.
+Resource Pack History on the John Smith Technicians Remix website.
 
+http://js-legacy.net/
+https://github.com/John-Smith-Modded
 http://www.johnsmithlegacy.co.uk/
 
 
@@ -47,7 +51,7 @@ press Enter:
 %appdata%/.minecraft/resourcepacks
 
 
-Copy/Move the file "John Smith Legacy.zip" into the ".minecraft/resourcepacks" folder (you don't
+Copy/Move the file "JSTR_Universal_1.8.x.zip" into the ".minecraft/resourcepacks" folder (you don't
 need extract it!).
 
 
@@ -59,7 +63,7 @@ On the Minecraft title screen select "Options"
 
 Select "Resource Packs" (bottom left).
 
-Then select "John Smith Legacy JSC v1.1.00". (or whatever the latest version is)
+Then select "JSTR_Universal_1.8.x". (or whatever the latest version is)
 
 
 That's all,
@@ -77,8 +81,16 @@ Thanks to all of the People who helped with the pack:-
 
 - JohnSmith
 - JimStoneCraft
+- damonmensch
 - Glowstontium
+- Goldbattle
 - Greenhawk837
+- kardain
+- lesdmark
+- Oddface
+- Satellence
+- ScottKillen
+- Shoeboxam
 - iTpyn
 - Zica
 - Arkindal
