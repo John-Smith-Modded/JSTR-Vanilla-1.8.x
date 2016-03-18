@@ -67,8 +67,7 @@
                    { "model": "flower_pot_dandelion_pot1" },
                    { "model": "flower_pot_dandelion_pot2" },
                    { "model": "flower_pot_dandelion_pot3" },
-                   { "model": "flower_pot_dandelion_pot4" },
-                   { "model": "flower_pot_dandelion_pot5" }
+                   { "model": "flower_pot_dandelion_pot4" }
               ],
         "contents=oak_sapling": [
                    { "model": "flower_pot_oak" },
@@ -108,17 +107,11 @@
               ],
         "contents=mushroom_red": [
                    { "model": "flower_pot_mushroom_red" },
-                   { "model": "flower_pot_mushroom_red1" },
-                   { "model": "flower_pot_mushroom_red2" },
-                   { "model": "flower_pot_mushroom_red3" },
-                   { "model": "flower_pot_mushroom_red4" }
+                   { "model": "flower_pot_mushroom_red1" }
               ],
         "contents=mushroom_brown": [
                    { "model": "flower_pot_mushroom_brown" },
-                   { "model": "flower_pot_mushroom_brown1" },
-                   { "model": "flower_pot_mushroom_brown2" },
-                   { "model": "flower_pot_mushroom_brown3" },
-                   { "model": "flower_pot_mushroom_brown_pot" }
+                   { "model": "flower_pot_mushroom_brown1" }
               ],
         "contents=dead_bush": [
                    { "model": "flower_pot_dead_bush" },

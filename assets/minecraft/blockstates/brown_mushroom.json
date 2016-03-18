@@ -3,10 +3,7 @@
     "variants": {
         "normal": [
             { "model": "brown_mushroom" },
-            { "model": "brown_mushroom1" },
-            { "model": "brown_mushroom2" },
-            { "model": "brown_mushroom3" },
-            { "model": "brown_mushroom4" }
+            { "model": "brown_mushroom1" }
         ]
     }
 }
