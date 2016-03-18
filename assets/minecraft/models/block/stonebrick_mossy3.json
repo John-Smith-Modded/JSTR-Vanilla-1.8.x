@@ -1,9 +1,7 @@
 {
     "__comment": "JimStoneCraft - 2014",
-    "parent": "block/cube_bottom_top",
+    "parent": "block/cube_all",
     "textures": {
-        "bottom": "blocks/stonebrick_mossy3",
-        "top": "blocks/stonebrick_mossy_top3",
-        "side": "blocks/stonebrick_mossy3"
+        "all": "blocks/stonebrick_mossy3"
     }
 }

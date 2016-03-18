@@ -9,7 +9,12 @@
             { "model": "stonebrick_mossy4" },
             { "model": "stonebrick_mossy5" },
             { "model": "stonebrick_mossy6" },
-            { "model": "stonebrick_mossy7" }
+            { "model": "stonebrick_mossy7" },
+            { "model": "stonebrick_mossy8" },
+            { "model": "stonebrick_mossy9" },
+            { "model": "stonebrick_mossy10" },
+            { "model": "stonebrick_mossy11" },
+            { "model": "stonebrick_mossy12" }
         ]
     }
 }
