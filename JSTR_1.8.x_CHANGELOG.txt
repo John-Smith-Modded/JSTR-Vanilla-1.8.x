@@ -23,7 +23,7 @@ Added
 
 In the beginning.
 
--{0.1.1}- 16th March 2016 - 1.8.x--------------------------------------------------------------
+-{0.1.1}- 17th March 2016 - 1.8.x--------------------------------------------------------------
 
 1.8 Vanilla Base
 
@@ -34,7 +34,161 @@ Updated
 Corrected references to vanilla JS to JSTR version and added people who
 were missing in the credits. Also fixed version references.
 
+-{0.2.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+Added
+                
+		assets\minecraft\blockstates\acacia_fence_gate.json
+		assets\minecraft\blockstates\acacia_leaves.json
+		assets\minecraft\blockstates\allium.json
+		assets\minecraft\blockstates\bedrock.json
+		assets\minecraft\blockstates\birch_fence_gate.json
+		assets\minecraft\blockstates\birch_leaves.json
+		assets\minecraft\blockstates\blue_orchid.json
+		assets\minecraft\blockstates\brick_block.json
+		assets\minecraft\blockstates\brick_double_slab.json
+		assets\minecraft\blockstates\brick_slab.json
+		assets\minecraft\blockstates\brick_stairs.json
+		assets\minecraft\blockstates\brown_mushroom.json
+		assets\minecraft\blockstates\chiseled_red_sandstone.json
+		assets\minecraft\blockstates\chiseled_sandstone.json
+		assets\minecraft\blockstates\cobblestone.json
+		assets\minecraft\blockstates\cobblestone_double_slab.json
+		assets\minecraft\blockstates\cobblestone_monster_egg.json
+		assets\minecraft\blockstates\cobblestone_slab.json
+		assets\minecraft\blockstates\cracked_brick_monster_egg.json
+		assets\minecraft\blockstates\cracked_stonebrick.json
+		assets\minecraft\blockstates\dandelion.json
+		assets\minecraft\blockstates\dark_oak_leaves.json
+		assets\minecraft\blockstates\dead_bush.json
+		assets\minecraft\blockstates\dirt.json
+		assets\minecraft\blockstates\end_stone.json
+		assets\minecraft\blockstates\fence_gate.json
+		assets\minecraft\blockstates\fern.json
+		assets\minecraft\blockstates\flower_pot.json
+		assets\minecraft\blockstates\gold_block.json
+		assets\minecraft\blockstates\grass.json
+		assets\minecraft\blockstates\gravel.json
+		assets\minecraft\blockstates\houstonia.json
+		assets\minecraft\blockstates\jungle_fence_gate.json
+		assets\minecraft\blockstates\jungle_leaves.json
+		assets\minecraft\blockstates\mob_spawner.json
+		assets\minecraft\blockstates\mossy_brick_monster_egg.json
+		assets\minecraft\blockstates\mossy_cobblestone.json
+		assets\minecraft\blockstates\mossy_stonebrick.json
+		assets\minecraft\blockstates\netherrack.json
+		assets\minecraft\blockstates\nether_brick.json
+		assets\minecraft\blockstates\nether_brick_double_slab.json
+		assets\minecraft\blockstates\nether_brick_slab.json
+		assets\minecraft\blockstates\nether_brick_stairs.json
+		assets\minecraft\blockstates\oak_slab.json
+		assets\minecraft\blockstates\oak_stairs.json
+		assets\minecraft\blockstates\orange_tulip.json
+		assets\minecraft\blockstates\oxeye_daisy.json
+		assets\minecraft\blockstates\pink_tulip.json
+		assets\minecraft\blockstates\podzol.json
+		assets\minecraft\blockstates\poppy.json
+		assets\minecraft\blockstates\red_mushroom.json
+		assets\minecraft\blockstates\red_sand.json
+		assets\minecraft\blockstates\red_sandstone.json
+		assets\minecraft\blockstates\red_sandstone_double_slab.json
+		assets\minecraft\blockstates\red_sandstone_slab.json
+		assets\minecraft\blockstates\red_sandstone_stairs.json
+		assets\minecraft\blockstates\red_tulip.json
+		assets\minecraft\blockstates\sand.json
+		assets\minecraft\blockstates\sandstone.json
+		assets\minecraft\blockstates\sandstone_double_slab.json
+		assets\minecraft\blockstates\sandstone_slab.json
+		assets\minecraft\blockstates\sandstone_stairs.json
+		assets\minecraft\blockstates\smooth_red_sandstone.json
+		assets\minecraft\blockstates\smooth_sandstone.json
+		assets\minecraft\blockstates\spruce_fence_gate.json
+		assets\minecraft\blockstates\spruce_leaves.json
+		assets\minecraft\blockstates\stone.json
+		assets\minecraft\blockstates\stonebrick.json
+		assets\minecraft\blockstates\stone_brick_double_slab.json
+		assets\minecraft\blockstates\stone_brick_monster_egg.json
+		assets\minecraft\blockstates\stone_brick_slab.json
+		assets\minecraft\blockstates\stone_brick_stairs.json
+		assets\minecraft\blockstates\stone_double_slab.json
+		assets\minecraft\blockstates\stone_monster_egg.json
+		assets\minecraft\blockstates\stone_slab.json
+		assets\minecraft\blockstates\stone_stairs.json
+		assets\minecraft\blockstates\tall_grass.json
+		assets\minecraft\blockstates\vine.json
+		assets\minecraft\blockstates\white_tulip.json
+		assets\minecraft\blockstates\wood_old_double_slab.json
+		assets\minecraft\blockstates\wood_old_slab.json
+
+Added all the blockstate JSONS.
+
+-{0.2.1}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+Deleted
+                
+		JOHN_SMITH_LEGACY_1.7.10_CHANGELOG.txt
+		
+Added
+		
+		JSTR_1.8.x_CHANGELOG.txt
+
+Renamed the changelog file to something more appropriate. Hve not changed the contents yet.
+
+-{0.3.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
 
 
+Added
+		
+		assets\minecraft\textures\particle\footprint.png
+		assets\monecraft\textures\particle\particle.png
+
+Added particles folder in textures.
+
+-{0.4.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
 
 
+Added
+		
+		assets\minecraft\textures\painting\paintings_kristoffer_zetterstrand.png
+
+Added paintings folder in textures.
+
+-{0.5.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+
+Added
+		
+		assets\minecraft\textures\misc\enchanted_item_glint.png
+		assets\minecraft\textures\misc\enchanted_item_glint.png.mcmeta
+		assets\minecraft\textures\misc\pumpkinblur.png
+		assets\minecraft\textures\misc\pumpkinblur.png.mcmeta
+		assets\minecraft\textures\misc\shadow.png
+		assets\minecraft\textures\misc\shadow.png.mcmeta
+		assets\minecraft\textures\misc\underwater.png
+		assets\minecraft\textures\misc\unknown_pack.png
+		assets\minecraft\textures\misc\vignette.png
+		assets\minecraft\textures\misc\vignette.png
+
+Added misc folder in textures.
+
+-{0.6.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+
+Added
+		
+		assets\minecraft\textures\map\map_background.png
+		assets\minecraft\textures\map\map_icons.png
+
+Added map folder in textures.
