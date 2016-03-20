@@ -9,30 +9,74 @@ NOTE:- This Resource Pack is for Minecraft 1.8.x , and has limited support for O
 
 ====================================================================================================
 
--{0.1.0}- 16th March 2016 - 1.8.x--------------------------------------------------------------
+-{0.6.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
 
 1.8 Vanilla Base
+
 
 Added
-                font.txt
-		JOHN_SMITH_LEGACY_1.7.10_CHANGELOG.txt
-		license.txt
-		pack.mcmeta
-		pack.png
-		_READ ME.txt
+		
+		assets\minecraft\textures\map\map_background.png
+		assets\minecraft\textures\map\map_icons.png
 
-In the beginning.
+Added map folder in textures.
 
--{0.1.1}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+-{0.5.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
 
 1.8 Vanilla Base
 
-Updated
-                
-		_READ ME.txt
 
-Corrected references to vanilla JS to JSTR version and added people who
-were missing in the credits. Also fixed version references.
+Added
+		
+		assets\minecraft\textures\misc\enchanted_item_glint.png
+		assets\minecraft\textures\misc\enchanted_item_glint.png.mcmeta
+		assets\minecraft\textures\misc\pumpkinblur.png
+		assets\minecraft\textures\misc\pumpkinblur.png.mcmeta
+		assets\minecraft\textures\misc\shadow.png
+		assets\minecraft\textures\misc\shadow.png.mcmeta
+		assets\minecraft\textures\misc\underwater.png
+		assets\minecraft\textures\misc\unknown_pack.png
+		assets\minecraft\textures\misc\vignette.png
+		assets\minecraft\textures\misc\vignette.png
+
+Added misc folder in textures.
+
+-{0.4.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+
+Added
+		
+		assets\minecraft\textures\painting\paintings_kristoffer_zetterstrand.png
+
+Added paintings folder in textures.
+
+-{0.3.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+
+Added
+		
+		assets\minecraft\textures\particle\footprint.png
+		assets\monecraft\textures\particle\particle.png
+
+Added particles folder in textures.
+
+-{0.2.1}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+Deleted
+                
+		JOHN_SMITH_LEGACY_1.7.10_CHANGELOG.txt
+		
+Added
+		
+		JSTR_1.8.x_CHANGELOG.txt
+
+Renamed the changelog file to something more appropriate. Hve not changed the contents yet.
 
 -{0.2.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
 
@@ -124,71 +168,27 @@ Added
 
 Added all the blockstate JSONS.
 
--{0.2.1}- 17th March 2016 - 1.8.x--------------------------------------------------------------
+-{0.1.1}- 17th March 2016 - 1.8.x--------------------------------------------------------------
 
 1.8 Vanilla Base
 
-Deleted
+Updated
                 
+		_READ ME.txt
+
+Corrected references to vanilla JS to JSTR version and added people who
+were missing in the credits. Also fixed version references.
+
+-{0.1.0}- 16th March 2016 - 1.8.x--------------------------------------------------------------
+
+1.8 Vanilla Base
+
+Added
+                font.txt
 		JOHN_SMITH_LEGACY_1.7.10_CHANGELOG.txt
-		
-Added
-		
-		JSTR_1.8.x_CHANGELOG.txt
+		license.txt
+		pack.mcmeta
+		pack.png
+		_READ ME.txt
 
-Renamed the changelog file to something more appropriate. Hve not changed the contents yet.
-
--{0.3.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
-
-1.8 Vanilla Base
-
-
-Added
-		
-		assets\minecraft\textures\particle\footprint.png
-		assets\monecraft\textures\particle\particle.png
-
-Added particles folder in textures.
-
--{0.4.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
-
-1.8 Vanilla Base
-
-
-Added
-		
-		assets\minecraft\textures\painting\paintings_kristoffer_zetterstrand.png
-
-Added paintings folder in textures.
-
--{0.5.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
-
-1.8 Vanilla Base
-
-
-Added
-		
-		assets\minecraft\textures\misc\enchanted_item_glint.png
-		assets\minecraft\textures\misc\enchanted_item_glint.png.mcmeta
-		assets\minecraft\textures\misc\pumpkinblur.png
-		assets\minecraft\textures\misc\pumpkinblur.png.mcmeta
-		assets\minecraft\textures\misc\shadow.png
-		assets\minecraft\textures\misc\shadow.png.mcmeta
-		assets\minecraft\textures\misc\underwater.png
-		assets\minecraft\textures\misc\unknown_pack.png
-		assets\minecraft\textures\misc\vignette.png
-		assets\minecraft\textures\misc\vignette.png
-
-Added misc folder in textures.
-
--{0.6.0}- 17th March 2016 - 1.8.x--------------------------------------------------------------
-
-1.8 Vanilla Base
-
-
-Added
-		
-		assets\minecraft\textures\map\map_background.png
-		assets\minecraft\textures\map\map_icons.png
-
-Added map folder in textures.
+In the beginning.
