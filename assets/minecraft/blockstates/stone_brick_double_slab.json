@@ -8,8 +8,7 @@
             { "model": "stonebrick_normal3" },
             { "model": "stonebrick_normal4" },
             { "model": "stonebrick_normal5" },
-            { "model": "stonebrick_normal6" },
-            { "model": "stonebrick_normal7" }
+            { "model": "stonebrick_normal6" }
         ],
         "all": [
             { "model": "stonebrick_normal" },
@@ -18,8 +17,7 @@
             { "model": "stonebrick_normal3" },
             { "model": "stonebrick_normal4" },
             { "model": "stonebrick_normal5" },
-            { "model": "stonebrick_normal6" },
-            { "model": "stonebrick_normal7" }
+            { "model": "stonebrick_normal6" }
         ]
     }
 }

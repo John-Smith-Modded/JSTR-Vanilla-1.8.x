@@ -7,7 +7,7 @@
             { "model": "stonebrick_normal2", "weight": 5 },
             { "model": "stonebrick_normal3", "weight": 10 },
             { "model": "stonebrick_normal4", "weight": 50 },
-            { "model": "stonebrick_normal5", "weight": 10 },
+            { "model": "stonebrick_normal5", "weight": 20 },
             { "model": "stonebrick_normal6", "weight": 10 }
         ]
     }
