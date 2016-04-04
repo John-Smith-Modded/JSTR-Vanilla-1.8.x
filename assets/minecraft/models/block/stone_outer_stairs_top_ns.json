@@ -2,7 +2,7 @@
     "__comment": "JimStoneCraft - 2016",
     "parent": "block/outer_stairs",
     "textures": {
-        "bottom": "blocks/stone_stairs_bottom1",
+        "bottom": "blocks/cobblestone",
         "top": "blocks/stone_stairs_top1",
         "side": "blocks/stone_stairs_top_side"
     }
