@@ -10,9 +10,7 @@
         "contents=rose": [
                    { "model": "flower_pot_rose_pot" },
                    { "model": "flower_pot_rose_pot1" },
-                   { "model": "flower_pot_rose_pot2" },
-                   { "model": "flower_pot_rose_pot3" },
-                   { "model": "flower_pot_rose_pot4" }
+                   { "model": "flower_pot_rose_pot2" }
               ],
         "contents=blue_orchid": [
                    { "model": "flower_pot_orchid_pot" },
