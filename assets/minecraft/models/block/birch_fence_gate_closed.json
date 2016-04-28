@@ -4,6 +4,6 @@
     "textures": {
         "texture": "blocks/fence_gate_birch_closed",
         "top": "blocks/fence_gate_birch_top",
-        "bottom": "blocks/fence_gate_birch_bottom"
+        "bottom": "blocks/fence_gate_birch_top"
     }
 }

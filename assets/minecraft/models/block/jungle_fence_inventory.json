@@ -4,6 +4,6 @@
     "textures": {
         "texture": "blocks/fence_inventory_jungle",
         "top": "blocks/fence_inventory_jungle_top",
-        "bottom": "blocks/fence_inventory_jungle_bottom"
+        "bottom": "blocks/fence_inventory_jungle_top"
     }
 }

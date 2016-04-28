@@ -4,6 +4,6 @@
     "textures": {
         "texture": "blocks/fence_gate_dark_oak_open",
         "top": "blocks/fence_gate_dark_oak_top",
-        "bottom": "blocks/fence_gate_dark_oak_bottom"
+        "bottom": "blocks/fence_gate_dark_oak_top"
     }
 }

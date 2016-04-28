@@ -4,6 +4,6 @@
     "textures": {
         "texture": "blocks/fence_birch",
         "top": "blocks/fence_birch_top",
-        "bottom": "blocks/fence_birch_bottom"
+        "bottom": "blocks/fence_birch_top"
     }
 }
