@@ -2,22 +2,20 @@
     "__comment": "JimStoneCraft - 2014",
     "variants": {
         "normal": [
-            { "model": "stonebrick_normal" },
-            { "model": "stonebrick_normal1" },
-            { "model": "stonebrick_normal2" },
-            { "model": "stonebrick_normal3" },
-            { "model": "stonebrick_normal4" },
-            { "model": "stonebrick_normal5" },
-            { "model": "stonebrick_normal6" }
+            { "model": "stonebrick_normal", "weight": 50 },
+            { "model": "stonebrick_normal1", "weight": 5 },
+            { "model": "stonebrick_normal2", "weight": 5 },
+            { "model": "stonebrick_normal3", "weight": 10 },
+            { "model": "stonebrick_normal4", "weight": 10 },
+            { "model": "stonebrick_normal5", "weight": 20 }
         ],
         "all": [
-            { "model": "stonebrick_normal" },
-            { "model": "stonebrick_normal1" },
-            { "model": "stonebrick_normal2" },
-            { "model": "stonebrick_normal3" },
-            { "model": "stonebrick_normal4" },
-            { "model": "stonebrick_normal5" },
-            { "model": "stonebrick_normal6" }
+            { "model": "stonebrick_normal", "weight": 50 },
+            { "model": "stonebrick_normal1", "weight": 5 },
+            { "model": "stonebrick_normal2", "weight": 5 },
+            { "model": "stonebrick_normal3", "weight": 10 },
+            { "model": "stonebrick_normal4", "weight": 10 },
+            { "model": "stonebrick_normal5", "weight": 20 }
         ]
     }
 }
