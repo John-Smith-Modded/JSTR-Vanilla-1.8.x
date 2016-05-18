@@ -108,8 +108,7 @@
                    { "model": "flower_pot_mushroom_red1" }
               ],
         "contents=mushroom_brown": [
-                   { "model": "flower_pot_mushroom_brown" },
-                   { "model": "flower_pot_mushroom_brown1" }
+                   { "model": "flower_pot_mushroom_brown" }
               ],
         "contents=dead_bush": [
                    { "model": "flower_pot_dead_bush" },
