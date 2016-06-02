@@ -1,6 +1,6 @@
 {
     "__comment": "JimStoneCraft - 2014",
-    "parent": "block/fence_nse",
+    "parent": "block/fence_custom_nse",
     "textures": {
         "texture": "blocks/fence_oak",
         "top": "blocks/fence_oak_top",
